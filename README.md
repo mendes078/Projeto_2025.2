@@ -19,7 +19,9 @@ Aqui está um guia de como executar este projeto:
 
 ### 1. **Acessar o Google Colab**
 
+Para realizar esta etapa, é necessário que o usuário possua apenas uma conta no Google para conseguir acessar o projeto e clicar no link a seguir para abrir o Google Colaboratory:
 
+[Google Colaboratory](colab.research.google.com/drive/1yLyi87AuCKZyIierof9zM3uD0Q-pErAV)
 
 ## Resultados do Projeto
 
