@@ -53,3 +53,6 @@ E, em seguida, o Heatmap de Similaridades:
 
 <img width="570" height="507" alt="grafico_heatmap_similaridades" src="https://github.com/user-attachments/assets/3f29d621-92e1-4de2-8e80-7cb927d96c6c" />
 
+Como bônus, temos um gráfico da EDA demonstrando quais países possuem mais títulos na Netflix:
+
+<img width="623" height="390" alt="grafico_mais_paises" src="https://github.com/user-attachments/assets/7ebb2519-7079-4ead-8964-1ded7fb39d8f" />
