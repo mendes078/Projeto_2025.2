@@ -56,3 +56,10 @@ E, em seguida, o Heatmap de Similaridades:
 Como bônus, temos um gráfico da EDA demonstrando quais países possuem mais títulos na Netflix:
 
 <img width="623" height="390" alt="grafico_mais_paises" src="https://github.com/user-attachments/assets/7ebb2519-7079-4ead-8964-1ded7fb39d8f" />
+
+## Estrutura
+
+- src: Pasta que contém o projeto realizado em formato .ipynb.
+- data: Pasta onde está localizado o dataset que foi utilizado no projeto.
+- models: Pasta onde estão localizados as aplicações de IA utilizadas no projeto.
+- reportes -> figures: Pastas onde estão localizadas gráficos do projeto.
